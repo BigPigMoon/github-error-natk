@@ -1,6 +1,6 @@
-## Актуально для mobil**
+# Актуально для mobil
 
-Перед работой нужно очистить глобальные найстройки (config global) git.
+## Перед работой нужно очистить глобальные найстройки (config global) git.
 
 ### Способ 1 
 
@@ -28,9 +28,7 @@
    1. git config user.name "your name"
    2. git config user.email "your email"
 
-       Внимание! нет атрибута --global
-
-
+       ***Внимание!** нет атрибута --global*
 
 ## push на github
 
@@ -43,6 +41,5 @@
 То нужно добавить настройку
 
 git config --global credential.github.com.useHttpPath true
-
 
 Будет дополняться
